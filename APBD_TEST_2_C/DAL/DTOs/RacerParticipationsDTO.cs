@@ -6,4 +6,5 @@ public class RacerParticipationsDTO
     public string FirstName { get; set; }
     public string LastName { get; set; }
     public List<ParticipationDetailDTO> Participations { get; set; }
+    
 }
